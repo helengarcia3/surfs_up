@@ -1,7 +1,8 @@
 # surfs_up
 
 ## Overview
-Remember, your goal is to provide W. Avy with insight into the weather patterns of a specific location on Oahu where you would like to build your shop. One way to provide this insight is with a visualization—we'll plot the results of our precipitation analysis using Matplotlib.
+The goal for this analysis is to provide W. Avy with insight into the weather patterns of a specific location on Oahu where we are proposing a new shop.
+We will be visiualizing the data from SQlite to look at the temperatures in the area.
 
 W. Avy wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
